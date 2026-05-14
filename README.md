@@ -1,4 +1,4 @@
-# Stock Price Prediction Week
+# Stock Price Prediction
 
 Proyek prediksi harga saham menggunakan **Machine Learning** dengan pendekatan **technical analysis**. Memprediksi pergerakan harga saham dalam jangka waktu **1 bulan** dan **1 tahun** ke depan menggunakan ensemble dari 5 model regresi.
 
